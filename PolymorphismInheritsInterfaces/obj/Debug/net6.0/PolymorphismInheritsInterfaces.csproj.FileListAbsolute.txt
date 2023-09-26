@@ -1,0 +1,15 @@
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\bin\Debug\net6.0\PolymorphismInheritsInterfaces.exe
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\bin\Debug\net6.0\PolymorphismInheritsInterfaces.deps.json
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\bin\Debug\net6.0\PolymorphismInheritsInterfaces.runtimeconfig.json
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\bin\Debug\net6.0\PolymorphismInheritsInterfaces.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\bin\Debug\net6.0\PolymorphismInheritsInterfaces.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\obj\Debug\net6.0\PolymorphismInheritsInterfaces.csproj.AssemblyReference.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\obj\Debug\net6.0\PolymorphismInheritsInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\obj\Debug\net6.0\PolymorphismInheritsInterfaces.AssemblyInfoInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\obj\Debug\net6.0\PolymorphismInheritsInterfaces.AssemblyInfo.cs
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\obj\Debug\net6.0\PolymorphismInheritsInterfaces.csproj.CoreCompileInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\obj\Debug\net6.0\PolymorphismInheritsInterfaces.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\obj\Debug\net6.0\refint\PolymorphismInheritsInterfaces.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\obj\Debug\net6.0\PolymorphismInheritsInterfaces.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\obj\Debug\net6.0\PolymorphismInheritsInterfaces.genruntimeconfig.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\PolymorphismInheritsInterfaces\obj\Debug\net6.0\ref\PolymorphismInheritsInterfaces.dll

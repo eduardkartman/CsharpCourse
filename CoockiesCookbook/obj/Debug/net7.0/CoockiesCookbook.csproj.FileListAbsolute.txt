@@ -1,0 +1,15 @@
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\bin\Debug\net7.0\CoockiesCookbook.exe
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\bin\Debug\net7.0\CoockiesCookbook.deps.json
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\bin\Debug\net7.0\CoockiesCookbook.runtimeconfig.json
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\bin\Debug\net7.0\CoockiesCookbook.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\bin\Debug\net7.0\CoockiesCookbook.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\obj\Debug\net7.0\CoockiesCookbook.csproj.AssemblyReference.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\obj\Debug\net7.0\CoockiesCookbook.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\obj\Debug\net7.0\CoockiesCookbook.AssemblyInfoInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\obj\Debug\net7.0\CoockiesCookbook.AssemblyInfo.cs
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\obj\Debug\net7.0\CoockiesCookbook.csproj.CoreCompileInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\obj\Debug\net7.0\CoockiesCookbook.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\obj\Debug\net7.0\refint\CoockiesCookbook.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\obj\Debug\net7.0\CoockiesCookbook.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\obj\Debug\net7.0\CoockiesCookbook.genruntimeconfig.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\CoockiesCookbook\obj\Debug\net7.0\ref\CoockiesCookbook.dll

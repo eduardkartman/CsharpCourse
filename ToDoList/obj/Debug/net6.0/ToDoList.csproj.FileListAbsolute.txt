@@ -1,0 +1,15 @@
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\bin\Debug\net6.0\ToDoList.exe
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\bin\Debug\net6.0\ToDoList.deps.json
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\bin\Debug\net6.0\ToDoList.runtimeconfig.json
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\bin\Debug\net6.0\ToDoList.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\bin\Debug\net6.0\ToDoList.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\obj\Debug\net6.0\ToDoList.csproj.AssemblyReference.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\obj\Debug\net6.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfoInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\obj\Debug\net6.0\ToDoList.AssemblyInfo.cs
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\obj\Debug\net6.0\ToDoList.csproj.CoreCompileInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\obj\Debug\net6.0\ToDoList.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\obj\Debug\net6.0\refint\ToDoList.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\obj\Debug\net6.0\ToDoList.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\obj\Debug\net6.0\ToDoList.genruntimeconfig.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\ToDoList\obj\Debug\net6.0\ref\ToDoList.dll

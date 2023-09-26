@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33530.505
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoockiesCookbook", "Course\CoockiesCookbook.csproj", "{428A69AB-3DDC-4014-9498-54BB0722A77E}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDoList", "ToDoList\ToDoList.csproj", "{842D031C-780C-4F31-86BD-3D44FCFEFAD9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceRoll", "DiceRoll\DiceRoll.csproj", "{A16D2D20-BD86-44CB-95FC-A1182E355329}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolymorphismInheritsInterfaces", "PolymorphismInheritsInterfaces\PolymorphismInheritsInterfaces.csproj", "{F7508C8E-3208-46BB-897B-3B35D084DCA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDataParser", "Generics\GameDataParser.csproj", "{96959992-1498-4C78-9E2B-28D10D61E903}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoockiesCookbook", "CoockiesCookbook\CoockiesCookbook.csproj", "{00DAC72F-0EC2-465D-B3AA-5EF939FCF1CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDataParser", "GameDataParser\GameDataParser.csproj", "{576CDB26-839B-44F3-8968-C7E61F1D8480}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,10 +19,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{428A69AB-3DDC-4014-9498-54BB0722A77E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{428A69AB-3DDC-4014-9498-54BB0722A77E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{428A69AB-3DDC-4014-9498-54BB0722A77E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{428A69AB-3DDC-4014-9498-54BB0722A77E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{842D031C-780C-4F31-86BD-3D44FCFEFAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{842D031C-780C-4F31-86BD-3D44FCFEFAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{842D031C-780C-4F31-86BD-3D44FCFEFAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -35,10 +31,14 @@ Global
 		{F7508C8E-3208-46BB-897B-3B35D084DCA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7508C8E-3208-46BB-897B-3B35D084DCA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7508C8E-3208-46BB-897B-3B35D084DCA5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{96959992-1498-4C78-9E2B-28D10D61E903}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{96959992-1498-4C78-9E2B-28D10D61E903}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{96959992-1498-4C78-9E2B-28D10D61E903}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{96959992-1498-4C78-9E2B-28D10D61E903}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DAC72F-0EC2-465D-B3AA-5EF939FCF1CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DAC72F-0EC2-465D-B3AA-5EF939FCF1CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DAC72F-0EC2-465D-B3AA-5EF939FCF1CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DAC72F-0EC2-465D-B3AA-5EF939FCF1CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{576CDB26-839B-44F3-8968-C7E61F1D8480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576CDB26-839B-44F3-8968-C7E61F1D8480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576CDB26-839B-44F3-8968-C7E61F1D8480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576CDB26-839B-44F3-8968-C7E61F1D8480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
