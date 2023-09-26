@@ -1,0 +1,10 @@
+[9/26/2023 4:22:27 PM]
+Exception message: '{' is invalid after a value. Expected either ',', '}', or ']'. Path: $[1] | LineNumber: 6 | BytePositionInLine: 2. The file is: gamesInvalidFormat.json
+Stack trace:    at GameDataParserApp.Run() in D:\Desktop\Curs C#\Course\CsharpCourse\GameDataParser\Program.cs:line 64
+   at Program.<Main>$(String[] args) in D:\Desktop\Curs C#\Course\CsharpCourse\GameDataParser\Program.cs:line 10
+
+[9/26/2023 4:24:05 PM]
+Exception message: '{' is invalid after a value. Expected either ',', '}', or ']'. Path: $[1] | LineNumber: 6 | BytePositionInLine: 2. The file is: gamesInvalidFormat.json
+Stack trace:    at GameDataParserApp.Run() in D:\Desktop\Curs C#\Course\CsharpCourse\GameDataParser\Program.cs:line 64
+   at Program.<Main>$(String[] args) in D:\Desktop\Curs C#\Course\CsharpCourse\GameDataParser\Program.cs:line 10
+
