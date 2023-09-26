@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceRoll", "DiceRoll\DiceRo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolymorphismInheritsInterfaces", "PolymorphismInheritsInterfaces\PolymorphismInheritsInterfaces.csproj", "{F7508C8E-3208-46BB-897B-3B35D084DCA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{96959992-1498-4C78-9E2B-28D10D61E903}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDataParser", "Generics\GameDataParser.csproj", "{96959992-1498-4C78-9E2B-28D10D61E903}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

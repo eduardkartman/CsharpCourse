@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Curs C#\\Course\\CsharpCourse\\Generics\\Generics.csproj",
-      "projectName": "Generics",
-      "projectPath": "D:\\Desktop\\Curs C#\\Course\\CsharpCourse\\Generics\\Generics.csproj",
+      "projectUniqueName": "D:\\Desktop\\Curs C#\\Course\\CsharpCourse\\Generics\\GameDataParser.csproj",
+      "projectName": "GameDataParser",
+      "projectPath": "D:\\Desktop\\Curs C#\\Course\\CsharpCourse\\Generics\\GameDataParser.csproj",
       "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
       "outputPath": "D:\\Desktop\\Curs C#\\Course\\CsharpCourse\\Generics\\obj\\",
       "projectStyle": "PackageReference",
