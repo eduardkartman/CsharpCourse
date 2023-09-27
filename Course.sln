@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiceRoll", "DiceRoll\DiceRo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PolymorphismInheritsInterfaces", "PolymorphismInheritsInterfaces\PolymorphismInheritsInterfaces.csproj", "{F7508C8E-3208-46BB-897B-3B35D084DCA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoockiesCookbook", "CoockiesCookbook\CoockiesCookbook.csproj", "{00DAC72F-0EC2-465D-B3AA-5EF939FCF1CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoockiesCookbook", "CoockiesCookbook\CoockiesCookbook.csproj", "{00DAC72F-0EC2-465D-B3AA-5EF939FCF1CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameDataParser", "GameDataParser\GameDataParser.csproj", "{576CDB26-839B-44F3-8968-C7E61F1D8480}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameDataParser", "GameDataParser\GameDataParser.csproj", "{576CDB26-839B-44F3-8968-C7E61F1D8480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{1CD42EF0-DD40-4F13-A113-CD5C499D491F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{576CDB26-839B-44F3-8968-C7E61F1D8480}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{576CDB26-839B-44F3-8968-C7E61F1D8480}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{576CDB26-839B-44F3-8968-C7E61F1D8480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CD42EF0-DD40-4F13-A113-CD5C499D491F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CD42EF0-DD40-4F13-A113-CD5C499D491F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CD42EF0-DD40-4F13-A113-CD5C499D491F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CD42EF0-DD40-4F13-A113-CD5C499D491F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

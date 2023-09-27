@@ -1,0 +1,15 @@
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\bin\Debug\net7.0\Generics.exe
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\bin\Debug\net7.0\Generics.deps.json
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\bin\Debug\net7.0\Generics.runtimeconfig.json
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\bin\Debug\net7.0\Generics.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\bin\Debug\net7.0\Generics.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\Generics.csproj.AssemblyReference.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\Generics.AssemblyInfoInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\Generics.AssemblyInfo.cs
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\Generics.csproj.CoreCompileInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\Generics.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\refint\Generics.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\Generics.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\Generics.genruntimeconfig.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\ref\Generics.dll
