@@ -15,13 +15,29 @@ var dates = new SimpleList<DateTime>();
 dates.Add(new DateTime(2025, 1, 6));
 dates.Add(new DateTime(2025, 6, 6));*/
 
-var numbers = new List<int> { 5, 3, 2, 8, 16, 7 };
+/*var numbers = new List<int> { 5, 3, 2, 8, 16, 7 };
 SimpleTuple<int,int> mindAndMax = GetMinAndMax(numbers);
 Console.WriteLine("Minimum is : " + mindAndMax.Item1);
-Console.WriteLine("Maximum is : " + mindAndMax.Item2);
+Console.WriteLine("Maximum is : " + mindAndMax.Item2);*/
+
+using System.Numerics;
+
+Console.WriteLine("Square of 2 is : " + Calculator.Square(2));
+Console.WriteLine("Square of 4m is : " + Calculator.Square(4m));
+Console.WriteLine("Square of 6d is : " + Calculator.Square(6d));
+
 
 Console.ReadKey();
 
+public static class Calculator
+{
+    public static T Square<T>(T input) where T : INumber<T> 
+        => input * input;
+}
+
+
+
+/*
 SimpleTuple<int, int> GetMinAndMax(IEnumerable<int> input)
 {
     if (!input.Any())
@@ -109,3 +125,4 @@ class SimpleList<T>
         return _items[index];
     }
 }
+*/
