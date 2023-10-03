@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameDataParser", "GameDataP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{1CD42EF0-DD40-4F13-A113-CD5C499D491F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpression", "LambdaExpression\LambdaExpression.csproj", "{7CA910C4-A516-4168-B30E-F073CFA24CCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LambdaExpression", "LambdaExpression\LambdaExpression.csproj", "{7CA910C4-A516-4168-B30E-F073CFA24CCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCacheApp", "CustomCacheApp\CustomCacheApp.csproj", "{34D9BC1A-B0EC-4735-A17E-B37D0DB0C6D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{7CA910C4-A516-4168-B30E-F073CFA24CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CA910C4-A516-4168-B30E-F073CFA24CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CA910C4-A516-4168-B30E-F073CFA24CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34D9BC1A-B0EC-4735-A17E-B37D0DB0C6D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34D9BC1A-B0EC-4735-A17E-B37D0DB0C6D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34D9BC1A-B0EC-4735-A17E-B37D0DB0C6D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34D9BC1A-B0EC-4735-A17E-B37D0DB0C6D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

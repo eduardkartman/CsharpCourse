@@ -1,0 +1,15 @@
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\bin\Debug\net7.0\CustomCacheApp.exe
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\bin\Debug\net7.0\CustomCacheApp.deps.json
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\bin\Debug\net7.0\CustomCacheApp.runtimeconfig.json
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\bin\Debug\net7.0\CustomCacheApp.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\bin\Debug\net7.0\CustomCacheApp.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\obj\Debug\net7.0\CustomCacheApp.csproj.AssemblyReference.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\obj\Debug\net7.0\CustomCacheApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\obj\Debug\net7.0\CustomCacheApp.AssemblyInfoInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\obj\Debug\net7.0\CustomCacheApp.AssemblyInfo.cs
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\obj\Debug\net7.0\CustomCacheApp.csproj.CoreCompileInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\obj\Debug\net7.0\CustomCacheApp.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\obj\Debug\net7.0\refint\CustomCacheApp.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\obj\Debug\net7.0\CustomCacheApp.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\obj\Debug\net7.0\CustomCacheApp.genruntimeconfig.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\CustomCacheApp\obj\Debug\net7.0\ref\CustomCacheApp.dll
