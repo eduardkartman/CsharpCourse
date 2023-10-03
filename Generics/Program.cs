@@ -221,7 +221,7 @@ Console.WriteLine(
 var userInput = Console.ReadLine();
 
 var filteringStrategy = new FilteringStrategySelector().Select(userInput);
-List<int> result = new Filter().FilterBy(filteringStrategy, numbers);
+var result = new Filter().FilterBy(filteringStrategy, numbers);
 
 Print(result);
 
@@ -259,7 +259,9 @@ public class FilteringStrategySelector
 
 public class Filter
 {
-    public List<T> FilterBy<T>(Func<T, bool> predicate, List<T> numbers)
+    public IEnumerable<T> FilterBy<T>(
+        Func<T, bool> predicate,
+        IEnumerable<T> numbers)
     {
         var result = new List<T>();
         foreach (var number in numbers)
