@@ -1,0 +1,15 @@
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\Linq.csproj.AssemblyReference.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\Linq.AssemblyInfoInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\Linq.AssemblyInfo.cs
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\Linq.csproj.CoreCompileInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\bin\Debug\net7.0\Linq.exe
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\bin\Debug\net7.0\Linq.deps.json
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\bin\Debug\net7.0\Linq.runtimeconfig.json
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\bin\Debug\net7.0\Linq.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\bin\Debug\net7.0\Linq.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\Linq.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\refint\Linq.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\Linq.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\Linq.genruntimeconfig.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\ref\Linq.dll
