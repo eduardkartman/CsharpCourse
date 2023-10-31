@@ -1,0 +1,15 @@
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\bin\Debug\net7.0\CSV_Project.exe
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\bin\Debug\net7.0\CSV_Project.deps.json
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\bin\Debug\net7.0\CSV_Project.runtimeconfig.json
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\bin\Debug\net7.0\CSV_Project.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\bin\Debug\net7.0\CSV_Project.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\obj\Debug\net7.0\CSV_Project.csproj.AssemblyReference.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\obj\Debug\net7.0\CSV_Project.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\obj\Debug\net7.0\CSV_Project.AssemblyInfoInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\obj\Debug\net7.0\CSV_Project.AssemblyInfo.cs
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\obj\Debug\net7.0\CSV_Project.csproj.CoreCompileInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\obj\Debug\net7.0\CSV_Project.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\obj\Debug\net7.0\refint\CSV_Project.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\obj\Debug\net7.0\CSV_Project.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\obj\Debug\net7.0\CSV_Project.genruntimeconfig.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\CSV_Project\obj\Debug\net7.0\ref\CSV_Project.dll

@@ -1,0 +1,5 @@
+D:\Desktop\Curs C#\Course\CsharpCourse\LambdaExpression\obj\Debug\net7.0\LambdaExpression.csproj.AssemblyReference.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\LambdaExpression\obj\Debug\net7.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Curs C#\Course\CsharpCourse\LambdaExpression\obj\Debug\net7.0\LambdaExpression.AssemblyInfoInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\LambdaExpression\obj\Debug\net7.0\LambdaExpression.AssemblyInfo.cs
+D:\Desktop\Curs C#\Course\CsharpCourse\LambdaExpression\obj\Debug\net7.0\LambdaExpression.csproj.CoreCompileInputs.cache
