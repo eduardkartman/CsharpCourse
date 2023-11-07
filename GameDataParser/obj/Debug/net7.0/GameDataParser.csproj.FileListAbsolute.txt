@@ -3,7 +3,6 @@ D:\Desktop\Curs C#\Course\CsharpCourse\GameDataParser\bin\Debug\net7.0\GameDataP
 D:\Desktop\Curs C#\Course\CsharpCourse\GameDataParser\bin\Debug\net7.0\GameDataParser.runtimeconfig.json
 D:\Desktop\Curs C#\Course\CsharpCourse\GameDataParser\bin\Debug\net7.0\GameDataParser.dll
 D:\Desktop\Curs C#\Course\CsharpCourse\GameDataParser\bin\Debug\net7.0\GameDataParser.pdb
-D:\Desktop\Curs C#\Course\CsharpCourse\GameDataParser\obj\Debug\net7.0\GameDataParser.csproj.AssemblyReference.cache
 D:\Desktop\Curs C#\Course\CsharpCourse\GameDataParser\obj\Debug\net7.0\GameDataParser.GeneratedMSBuildEditorConfig.editorconfig
 D:\Desktop\Curs C#\Course\CsharpCourse\GameDataParser\obj\Debug\net7.0\GameDataParser.AssemblyInfoInputs.cache
 D:\Desktop\Curs C#\Course\CsharpCourse\GameDataParser\obj\Debug\net7.0\GameDataParser.AssemblyInfo.cs
