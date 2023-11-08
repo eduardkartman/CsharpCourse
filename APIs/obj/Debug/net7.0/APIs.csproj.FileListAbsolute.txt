@@ -1,0 +1,14 @@
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\bin\Debug\net7.0\APIs.exe
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\bin\Debug\net7.0\APIs.deps.json
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\bin\Debug\net7.0\APIs.runtimeconfig.json
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\bin\Debug\net7.0\APIs.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\bin\Debug\net7.0\APIs.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\obj\Debug\net7.0\APIs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\obj\Debug\net7.0\APIs.AssemblyInfoInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\obj\Debug\net7.0\APIs.AssemblyInfo.cs
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\obj\Debug\net7.0\APIs.csproj.CoreCompileInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\obj\Debug\net7.0\APIs.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\obj\Debug\net7.0\refint\APIs.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\obj\Debug\net7.0\APIs.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\obj\Debug\net7.0\APIs.genruntimeconfig.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\APIs\obj\Debug\net7.0\ref\APIs.dll
