@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomCacheApp", "CustomCac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linq", "Linq\Linq.csproj", "{CFF901B6-367A-449A-A2AE-CB8C1800477D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV_Project", "CSV_Project\CSV_Project.csproj", "{37ACBD8F-6B58-4981-A080-719CDBDEFBB1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSV_Project", "CSV_Project\CSV_Project.csproj", "{37ACBD8F-6B58-4981-A080-719CDBDEFBB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpTypes", "CSharpTypes\CSharpTypes.csproj", "{19B4B96C-6678-46A7-A69B-38BA40326FD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{37ACBD8F-6B58-4981-A080-719CDBDEFBB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37ACBD8F-6B58-4981-A080-719CDBDEFBB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37ACBD8F-6B58-4981-A080-719CDBDEFBB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19B4B96C-6678-46A7-A69B-38BA40326FD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19B4B96C-6678-46A7-A69B-38BA40326FD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19B4B96C-6678-46A7-A69B-38BA40326FD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19B4B96C-6678-46A7-A69B-38BA40326FD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
