@@ -1,0 +1,14 @@
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\bin\Debug\net7.0\StatWarsPlanetsStats.exe
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\bin\Debug\net7.0\StatWarsPlanetsStats.deps.json
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\bin\Debug\net7.0\StatWarsPlanetsStats.runtimeconfig.json
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\bin\Debug\net7.0\StatWarsPlanetsStats.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\bin\Debug\net7.0\StatWarsPlanetsStats.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\obj\Debug\net7.0\StatWarsPlanetsStats.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\obj\Debug\net7.0\StatWarsPlanetsStats.AssemblyInfoInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\obj\Debug\net7.0\StatWarsPlanetsStats.AssemblyInfo.cs
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\obj\Debug\net7.0\StatWarsPlanetsStats.csproj.CoreCompileInputs.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\obj\Debug\net7.0\StatWarsPlanetsStats.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\obj\Debug\net7.0\refint\StatWarsPlanetsStats.dll
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\obj\Debug\net7.0\StatWarsPlanetsStats.pdb
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\obj\Debug\net7.0\StatWarsPlanetsStats.genruntimeconfig.cache
+D:\Desktop\Curs C#\Course\CsharpCourse\StatWarsPlanetsStats\obj\Debug\net7.0\ref\StatWarsPlanetsStats.dll

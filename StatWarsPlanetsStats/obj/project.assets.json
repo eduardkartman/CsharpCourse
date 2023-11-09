@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Curs C#\\Course\\CsharpCourse\\StatWarsPlanetsStats\\StatWarsPlanetsStats.csproj",
-      "projectName": "StatWarsPlanetsStats",
-      "projectPath": "D:\\Desktop\\Curs C#\\Course\\CsharpCourse\\StatWarsPlanetsStats\\StatWarsPlanetsStats.csproj",
+      "projectUniqueName": "D:\\Desktop\\Curs C#\\Course\\CsharpCourse\\StatWarsPlanetsStats\\StarWarsPlanetsStats.csproj",
+      "projectName": "StarWarsPlanetsStats",
+      "projectPath": "D:\\Desktop\\Curs C#\\Course\\CsharpCourse\\StatWarsPlanetsStats\\StarWarsPlanetsStats.csproj",
       "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
       "outputPath": "D:\\Desktop\\Curs C#\\Course\\CsharpCourse\\StatWarsPlanetsStats\\obj\\",
       "projectStyle": "PackageReference",

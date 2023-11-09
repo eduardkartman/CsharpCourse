@@ -3,7 +3,6 @@ D:\Desktop\Curs C#\Course\CsharpCourse\DiceRoll\bin\Debug\net6.0\DiceRoll.deps.j
 D:\Desktop\Curs C#\Course\CsharpCourse\DiceRoll\bin\Debug\net6.0\DiceRoll.runtimeconfig.json
 D:\Desktop\Curs C#\Course\CsharpCourse\DiceRoll\bin\Debug\net6.0\DiceRoll.dll
 D:\Desktop\Curs C#\Course\CsharpCourse\DiceRoll\bin\Debug\net6.0\DiceRoll.pdb
-D:\Desktop\Curs C#\Course\CsharpCourse\DiceRoll\obj\Debug\net6.0\DiceRoll.csproj.AssemblyReference.cache
 D:\Desktop\Curs C#\Course\CsharpCourse\DiceRoll\obj\Debug\net6.0\DiceRoll.GeneratedMSBuildEditorConfig.editorconfig
 D:\Desktop\Curs C#\Course\CsharpCourse\DiceRoll\obj\Debug\net6.0\DiceRoll.AssemblyInfoInputs.cache
 D:\Desktop\Curs C#\Course\CsharpCourse\DiceRoll\obj\Debug\net6.0\DiceRoll.AssemblyInfo.cs

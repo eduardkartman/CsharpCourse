@@ -25,9 +25,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSV_Project", "CSV_Project\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpTypes", "CSharpTypes\CSharpTypes.csproj", "{19B4B96C-6678-46A7-A69B-38BA40326FD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StatWarsPlanetsStats", "StatWarsPlanetsStats\StatWarsPlanetsStats.csproj", "{448412B8-F587-4167-9DBB-CFA458FB8EFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarWarsPlanetsStats", "StatWarsPlanetsStats\StarWarsPlanetsStats.csproj", "{448412B8-F587-4167-9DBB-CFA458FB8EFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIs", "APIs\APIs.csproj", "{F640BD58-4EAC-4B8B-82B2-F10B0C68403B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "APIs", "APIs\APIs.csproj", "{F640BD58-4EAC-4B8B-82B2-F10B0C68403B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

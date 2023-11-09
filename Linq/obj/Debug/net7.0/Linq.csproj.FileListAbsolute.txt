@@ -1,4 +1,3 @@
-D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\Linq.csproj.AssemblyReference.cache
 D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\Linq.GeneratedMSBuildEditorConfig.editorconfig
 D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\Linq.AssemblyInfoInputs.cache
 D:\Desktop\Curs C#\Course\CsharpCourse\Linq\obj\Debug\net7.0\Linq.AssemblyInfo.cs

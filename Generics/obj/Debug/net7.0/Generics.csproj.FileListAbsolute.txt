@@ -3,7 +3,6 @@ D:\Desktop\Curs C#\Course\CsharpCourse\Generics\bin\Debug\net7.0\Generics.deps.j
 D:\Desktop\Curs C#\Course\CsharpCourse\Generics\bin\Debug\net7.0\Generics.runtimeconfig.json
 D:\Desktop\Curs C#\Course\CsharpCourse\Generics\bin\Debug\net7.0\Generics.dll
 D:\Desktop\Curs C#\Course\CsharpCourse\Generics\bin\Debug\net7.0\Generics.pdb
-D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\Generics.csproj.AssemblyReference.cache
 D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
 D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\Generics.AssemblyInfoInputs.cache
 D:\Desktop\Curs C#\Course\CsharpCourse\Generics\obj\Debug\net7.0\Generics.AssemblyInfo.cs
